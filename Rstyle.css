@@ -1,0 +1,135 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* ------------LEFT SIDE--------------- */
+#myimg{
+    width:100%;
+    height:260px;
+    background-color: black;
+  
+}
+.myname{
+    color:rgb(16, 148, 150);
+    border-top: 8px solid;
+}
+.nametitle{
+    color:white;
+    font-size:30px;
+}
+.contact{
+    border:3px solid rgb(16, 148, 150);
+    border-radius: 22px;
+    font-size: 22px;
+    padding-left:43px;
+    padding-right:43px;
+    color: white;
+    background-color: black;
+   
+}
+.contactdetails{
+    margin-left: 50px;
+}
+.contacticon{
+    font-size: 19px;
+}
+.contacticon i{
+    border:2px solid  rgb(16, 148, 150);
+    border-radius: 50px;
+    padding:10px;
+    margin-top:25px;
+}
+.contacticon .fa-map-marker,.fa-phone{
+   height:40px;
+   width:40px;
+   padding-left:13px;
+  
+}
+.contacticon a{
+    word-wrap: break-word;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:rgb(168, 237, 214);
+}
+.contactdetails div{
+    font-size: 22px;
+}
+
+.hobbies{
+         font-size: 18px;
+         text-indent:8px ;
+}
+
+/* -------------------------RIGHT SIDE---------------------------- */
+.rightcol{
+    background-color: rgb(52, 110, 110);
+     /* background-color: #cee9d6;  */
+   
+}
+.subtitle10{
+    font-size: 40px;
+   
+}
+.aboutdetail{
+    font-size: 20px;
+    text-align: center;
+}
+.rightbox1{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.title2sub{
+    font-size: 19px;
+  
+    
+}
+.horiline{
+    border-top: 6px solid rgb(116, 97, 4);
+}
+
+.row1{
+    font-size: 18px;
+}
+.heading001{
+    padding: 10px;
+    font-size: 10px;
+   
+}
+.subtitle00{
+    font-size: 17px;
+}
+.achievement p{
+    font-size: 20px;
+}
+.achievement p i{
+    color:rgb(218, 129, 14);
+}
+.progress-bar1{
+    width:98%;
+}
+.progress-bar2{
+    width:90%;
+}
+.progress-bar3{
+    width:94%;
+}
+.progress-bar4{
+    width:89%;
+}
+.progress-bar5{
+    width:70%;
+}
+.progress-bar6{
+    width:79%;
+}
+.progress-bar7{
+    width:84%;
+}
+
+.progresstitle{
+    font-size: 17px;
+}
+
+.rightbox1 i{
+    font-size: 40px;
+}
